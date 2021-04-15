@@ -1,4 +1,4 @@
-### DDrive - A Secure & Decentralized File Storage System based on IPFS, Ethereum, and React
+# DDrive - A Secure & Decentralized File Storage App based on IPFS, Ethereum, and React
 
 This a decentralized storage drive based on Ethereume Smart Contract and the InterPlanetary File System protocol.
 To build up this App, I used various technologies such as Solidity, React, Truffle, and IPFS.
